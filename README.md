@@ -1,3 +1,11 @@
-# Welcome to Chakra UI!
+# Welcome to Lang-Chain-Project!
 
-This Chakra UI template is set up with TypeScript and Next JS.
+## Running the Project
+
+To run this project, follow these steps:
+
+1. Install the required dependencies:
+   ```bash
+   npm I
+   npm run dev
+
